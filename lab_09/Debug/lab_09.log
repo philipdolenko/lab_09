@@ -1,0 +1,4 @@
+﻿  lab_09.cpp
+d:\philip\dev\lab_09\lab_09\lab_09.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\philip\dev\lab_09\lab_09\lab_09.cpp(108): warning C4101: 'again': unreferenced local variable
+  lab_09.vcxproj -> D:\Philip\dev\lab_09\Debug\lab_09.exe
