@@ -105,7 +105,6 @@ void lab() {
 	float ** AB = new float*[MAX_SIZE];
 
 	float min = numeric_limits<float>::max();
-	char again;
 
 	cout << "Enter the size of the matrix ";
 	cin >> matrixSize;
